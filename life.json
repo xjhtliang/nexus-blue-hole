@@ -1,0 +1,18 @@
+
+{
+  "dashboard": {
+    "title": "生活概览",
+    "balance": "生活平衡轮"
+  },
+  "habits": {
+    "title": "习惯养成",
+    "streak": "连续打卡",
+    "heatmap": "习惯热力图"
+  },
+  "finance": {
+    "title": "个人收支",
+    "income": "收入",
+    "expense": "支出",
+    "budget": "预算"
+  }
+}

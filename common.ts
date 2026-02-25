@@ -1,0 +1,20 @@
+
+export default {
+  search: "搜索...",
+  searchPlaceholder: "搜索任何内容...",
+  offline: "离线",
+  syncing: "同步中",
+  systemOnline: "系统在线",
+  syncPaused: "同步暂停",
+  lastSynced: "上次同步",
+  exit: "退出",
+  settings: "设置",
+  loading: "加载中...",
+  actions: "操作",
+  save: "保存",
+  cancel: "取消",
+  delete: "删除",
+  edit: "编辑",
+  view: "查看",
+  welcome: "欢迎",
+};

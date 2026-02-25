@@ -1,0 +1,55 @@
+{
+  "app": {
+    "name": "Nexus蓝洞",
+    "description": "个人工作与生活一体化管理系统",
+    "loading": "加载中...",
+    "error": "出错了",
+    "success": "成功",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "创建",
+    "search": "搜索",
+    "filter": "筛选",
+    "refresh": "刷新",
+    "confirm": "确认",
+    "back": "返回"
+  },
+  "language": {
+    "zh-CN": "简体中文",
+    "en-US": "英语",
+    "switch": "切换语言"
+  },
+  "theme": {
+    "light": "浅色模式",
+    "dark": "深色模式",
+    "system": "跟随系统",
+    "switch": "切换主题"
+  },
+  "date": {
+    "today": "今天",
+    "yesterday": "昨天",
+    "tomorrow": "明天",
+    "thisWeek": "本周",
+    "lastWeek": "上周",
+    "nextWeek": "下周",
+    "thisMonth": "本月",
+    "lastMonth": "上月",
+    "nextMonth": "下月"
+  },
+  "time": {
+    "justNow": "刚刚",
+    "minutesAgo": "{{count}}分钟前",
+    "hoursAgo": "{{count}}小时前",
+    "daysAgo": "{{count}}天前"
+  },
+  "search": "搜索",
+  "searchPlaceholder": "搜索任何内容...",
+  "offline": "离线",
+  "syncing": "同步中",
+  "systemOnline": "系统在线",
+  "syncPaused": "同步暂停",
+  "lastSynced": "上次同步",
+  "exit": "退出"
+}

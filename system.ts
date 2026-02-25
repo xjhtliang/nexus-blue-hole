@@ -1,0 +1,16 @@
+
+export default {
+  "status": {
+    "title": "System Status",
+    "health": "System Health",
+    "uptime": "Uptime"
+  },
+  "archive": {
+    "title": "Archive Center",
+    "rules": "Archive Rules",
+    "analytics": "Analytics"
+  },
+  "settings": {
+    "title": "System Settings"
+  }
+};

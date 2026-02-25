@@ -1,0 +1,134 @@
+
+{
+  "dashboard": {
+    "title": "Work Overview",
+    "kpi": {
+      "goals": "Goal Completion",
+      "revenue": "Net Revenue",
+      "leads": "Active Leads"
+    }
+  },
+  "crm": {
+    "title": "Customer Relationship",
+    "description": "Manage your sales pipeline and relationships.",
+    "newLead": "New Lead",
+    "tabs": {
+      "leads": "My Leads",
+      "pipeline": "Pipeline",
+      "public": "Public Pool"
+    },
+    "leads": {
+      "filterPlaceholder": "Filter leads...",
+      "archiveConfirm": "Are you sure you want to archive lead \"{{name}}\"?",
+      "table": {
+        "nameCompany": "Name / Company",
+        "status": "Status",
+        "score": "Score",
+        "contact": "Contact",
+        "lastContact": "Last Contact",
+        "tags": "Tags",
+        "actions": "Actions",
+        "empty": "No leads found."
+      }
+    },
+    "detail": {
+      "back": "Back to Leads",
+      "archive": "Archive",
+      "logInteraction": "Log Interaction",
+      "details": "Details",
+      "source": "Source",
+      "owner": "Owner",
+      "created": "Created",
+      "lastContact": "Last Contact",
+      "tags": "Tags",
+      "addTag": "Add",
+      "activityTimeline": "Activity Timeline (360° View)",
+      "logPlaceholder": "Enter {{type}} details...",
+      "saveLog": "Save Log",
+      "cancel": "Cancel",
+      "interactionLogged": "{{type}} Logged"
+    },
+    "publicPool": {
+      "title": "Public Leads Pool (Gonghai)",
+      "description": "These leads are available to claim. Leads are moved here if they are inactive for 30 days or abandoned by other reps.",
+      "claim": "Claim",
+      "empty": "Pool is empty."
+    },
+    "scoreCard": {
+      "healthScore": "Lead Health Score",
+      "keyFactors": "Key Factors",
+      "noFactors": "No score factors recorded yet.",
+      "stagnationAlert": "Stagnation Alert",
+      "stagnationMessage": "Lead has been in {{status}} for {{days}} days. Consider follow-up.",
+      "cold": "Cold",
+      "hot": "Hot"
+    },
+    "timeline": {
+      "empty": "No interactions recorded yet.",
+      "emptyHint": "Log a call, email, or note to start the timeline.",
+      "by": "By",
+      "outcome": "Outcome"
+    },
+    "status": {
+      "NEW": "New",
+      "CONTACTED": "Contacted",
+      "QUALIFIED": "Qualified",
+      "LOST": "Lost",
+      "PUBLIC": "Public",
+      "CUSTOMER": "Customer"
+    }
+  },
+  "goals": {
+    "title": "Goal Tracking",
+    "description": "Align your daily actions with annual ambitions.",
+    "setGoal": "Set Goal",
+    "filters": {
+      "overview": "Overview",
+      "yearly": "Yearly",
+      "quarterly": "Quarterly",
+      "monthly": "Monthly"
+    },
+    "loading": "Loading goals...",
+    "empty": "No goals set for this horizon yet.",
+    "status": {
+      "ON_TRACK": "On Track",
+      "AT_RISK": "At Risk",
+      "BEHIND": "Behind",
+      "COMPLETED": "Completed"
+    },
+    "card": {
+      "current": "Current",
+      "target": "Target",
+      "insight": {
+        "good": "Trending to complete early.",
+        "bad": "Need to increase velocity."
+      }
+    }
+  },
+  "finance": {
+    "title": "Financial Hub",
+    "description": "Track earnings, calculate expectations, and win incentives.",
+    "calculator": {
+      "title": "Expectation Calculator",
+      "projectedRevenue": "Projected Revenue (Month)",
+      "fixedBase": "Fixed Base",
+      "commission": "Commission",
+      "tax": "Est. Tax",
+      "netIncome": "Est. Net Income"
+    },
+    "kpi": {
+      "currentMonth": "Current Month",
+      "revenueGenerated": "Revenue Generated",
+      "commissionEst": "Commission Est.",
+      "pendingPayout": "Pending Payout",
+      "activeContests": "Active Contests",
+      "joinToWin": "Join to win"
+    },
+    "charts": {
+      "revenueCommission": "Revenue & Commission Trend"
+    },
+    "incentives": {
+      "title": "Active Incentives"
+    }
+  }
+}

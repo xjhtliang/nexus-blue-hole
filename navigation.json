@@ -1,0 +1,27 @@
+
+{
+  "home": "首页",
+  "tasks": "任务管理",
+  "notes": "笔记",
+  "neuron": "神经元模块",
+  "connections": "全局关联",
+  "ideas": "想法孵化",
+  "domains": "领域知识",
+  "projects": "项目管理",
+  "resources": "资源库",
+  "goals": "目标追踪",
+  "work": "左脑模块",
+  "life": "右脑模块",
+  "system": "系统",
+  "status": "系统状态",
+  "archive": "归档中心",
+  "settings": "设置",
+  "profile": "个人资料",
+  "dashboard": "仪表盘",
+  "list": "列表",
+  "crm": "CRM 客户",
+  "finance": "财务看板",
+  "overview": "生活总览",
+  "habits": "习惯追踪",
+  "lifeFinance": "个人记账"
+}

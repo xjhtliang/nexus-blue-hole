@@ -1,0 +1,124 @@
+
+{
+  "dashboard": {
+    "connections": {
+      "title": "Global Connections Dashboard",
+      "description": "View data connection network and statistics across modules",
+      "totalNodes": "Total Nodes",
+      "totalConnections": "Total Connections",
+      "crossModule": "Cross-Module",
+      "newThisMonth": "New This Month",
+      "density": "Density"
+    },
+    "ideas": {
+      "title": "Idea Incubator Dashboard",
+      "description": "Capture, nurture, and realize your thoughts.",
+      "totalIdeas": "Total Ideas",
+      "inIncubation": "In Incubation",
+      "realized": "Realized",
+      "conversionRate": "Conversion Rate",
+      "pipelineStatus": "Idea Pipeline Status",
+      "quickActions": "Quick Actions",
+      "quickCapture": "Quick Capture",
+      "quickCaptureDesc": "Log a thought immediately",
+      "openMixer": "Open Mixer",
+      "openMixerDesc": "Combine existing ideas",
+      "reviewPending": "Review Pending",
+      "reviewPendingDesc": "Process inbox ideas",
+      "status": {
+        "exploring": "Exploring",
+        "validating": "Validating",
+        "paused": "Paused",
+        "completed": "Realized"
+      }
+    },
+    "domains": {
+      "title": "Knowledge Domains",
+      "description": "Map your expertise and learning goals.",
+      "expertiseDistribution": "Expertise Distribution",
+      "totalDomains": "Total Domains",
+      "topActiveDomains": "Top Active Domains",
+      "exploreTree": "Explore Tree",
+      "newDomain": "New Domain"
+    },
+    "tasks": {
+      "title": "Task Master",
+      "description": "Manage your execution queue and priorities.",
+      "todo": "To Do",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "highPriority": "High Priority",
+      "priorityDistribution": "Priority Distribution",
+      "upcomingDeadlines": "Upcoming Deadlines",
+      "needsAttention": "Needs attention",
+      "viewList": "View List",
+      "newTask": "New Task",
+      "viewCalendar": "View Calendar"
+    },
+    "projects": {
+      "title": "Project Portfolio",
+      "description": "Monitor project progress and resource allocation.",
+      "timelineGantt": "Timeline Gantt",
+      "statusBreakdown": "Status Breakdown",
+      "resourceAllocation": "Resource Allocation",
+      "inProgress": "In Progress",
+      "overdue": "Overdue",
+      "requiresAttention": "Requires attention",
+      "viewList": "View List",
+      "newProject": "New Project",
+      "status": {
+        "active": "Active",
+        "planning": "Planning",
+        "completed": "Completed"
+      },
+      "roles": {
+        "development": "Development",
+        "design": "Design",
+        "marketing": "Marketing"
+      }
+    },
+    "resources": {
+      "title": "Resource Library",
+      "description": "Knowledge base, tools, and assets statistics.",
+      "categoryDistribution": "Category Distribution",
+      "overview": "Overview",
+      "popularTags": "Popular Tags",
+      "totalItems": "Total Items",
+      "browseLibrary": "Browse Library",
+      "addResource": "Add Resource",
+      "work": "Work",
+      "life": "Life",
+      "tools": "Tools"
+    },
+    "notes": {
+      "title": "Notes & Knowledge",
+      "description": "Your second brain storage and statistics.",
+      "growthTrend": "Knowledge Growth Trend",
+      "recentlyUpdated": "Recently Updated",
+      "statistics": "Statistics",
+      "popularTags": "Popular Tags",
+      "totalNotes": "Total Notes",
+      "addedThisMonth": "Added This Month",
+      "pinned": "Pinned",
+      "noTags": "No tags used yet.",
+      "openNotebook": "Open Notebook",
+      "newNote": "New Note"
+    },
+    "goals": {
+      "title": "Goal Tracker",
+      "description": "Track your life's ambitions and key results.",
+      "progressOverview": "Progress Overview",
+      "annualCompletion": "Annual Goal Completion",
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "expiringSoon": "Expiring Soon",
+      "milestoneStatus": "Milestone Status",
+      "blocked": "Blocked",
+      "total": "Total",
+      "distribution": "Distribution",
+      "daysRemaining": "days remaining",
+      "viewTracker": "View Tracker",
+      "setGoal": "Set Goal"
+    }
+  }
+}
