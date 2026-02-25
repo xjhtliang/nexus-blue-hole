@@ -1,0 +1,28 @@
+groups:
+- name: NexusAlerts
+  rules:
+  - alert: HighErrorRate
+    expr: rate(http_requests_total{status=~"5.."}[5m]) > 1
+    for: 2m
+    labels:
+      severity: critical
+    annotations:
+      summary: "High HTTP 500 Error Rate detected"
+      description: "Error rate is > 1 req/s for 5 minutes."
+
+  - alert: HighLatency
+    expr: histogram_quantile(0.95, rate(http_request_duration_seconds_bucket[5m])) > 0.5
+    for: 5m
+    labels:
+      severity: warning
+    annotations:
+      summary: "High P95 Latency"
+      description: "P95 latency is > 500ms."
+
+  - alert: PodCrashLooping
+    expr: rate(kube_pod_container_status_restarts_total[15m]) > 0
+    for: 5m
+    labels:
+      severity: warning
+    annotations:
+      summary: "Pod CrashLooping detected"
